@@ -36,9 +36,9 @@ Ao final, foi elaborada uma recomendação baseada nos dados analisados.
 
 ## 📂 Estrutura do Projeto
 
-- `alura_store_analysis.ipynb` → Notebook com a análise completa dos dados  
+- `AluraStoreBrasil.ipynb` → Notebook com a análise completa dos dados  
 - `README.md` → Descrição do projeto  
-- Arquivos CSV → Bases de dados utilizadas na análise  
+
 
 ---
 
