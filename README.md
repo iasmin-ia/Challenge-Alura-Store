@@ -40,7 +40,7 @@ Ao final, foi elaborada uma recomendação baseada nos dados analisados.
 
 2. Instale as dependências: pip install pandas numpy matplotlib seaborn.
 
-3. Execute o notebook 'AluraStoreBrasil.ipynb'
+3. Execute o notebook `AluraStoreBrasil.ipynb`
 
 
 ---
