@@ -34,10 +34,13 @@ Ao final, foi elaborada uma recomendação baseada nos dados analisados.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🚀 Como Executar
 
-- `AluraStoreBrasil.ipynb` → Notebook com a análise completa dos dados  
-- `README.md` → Descrição do projeto  
+1. Clone o repositório.
+
+2. Instale as dependências: pip install pandas numpy matplotlib seaborn.
+
+3. Execute o notebook 'AluraStoreBrasil.ipynb'
 
 
 ---
